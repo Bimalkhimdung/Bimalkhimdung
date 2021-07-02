@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Bimalkhimdung
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning HTML,CSS and JavaScript
+You Know who i am !!
 
 - 📫 Gmail: bimalkhimdung@gmail.com
 - 
