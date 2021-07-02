@@ -1,5 +1,6 @@
 You Know who i am !!
 
+You can reach me through :
 - 📫 Gmail: bimalkhimdung@gmail.com
 
 
