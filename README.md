@@ -1,4 +1,15 @@
-You Know who i am !!
+Hi i am Bimal Rai,
+I am a computer Engineering Student at Trbhuban University Nepal
+I have knowladge about the Following languages :- C                                                c
+                                                  C++,
+                                                  HTML
+                                                  CSS,
+                                                  JvaScript,
+                                                  Pytho,
+                                                  Django.
+                                                  
+                                                  
+                                                  
 
 You can reach me through :
 - 📫 Gmail: bimalkhimdung@gmail.com
