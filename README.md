@@ -5,8 +5,9 @@ I have knowladge about the Following languages :- C                             
                                                   HTML
                                                   CSS,
                                                   JvaScript,
-                                                  Pytho,
-                                                  Django.
+                                                  React,
+                                                  Python,
+                                                  Python(Django).
                                                   
                                                   
                                                   
