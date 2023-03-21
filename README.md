@@ -1,14 +1,10 @@
-Hi i am Bimal Rai,
-I am a computer Engineering Student at Trbhuban University Nepal
-I have knowladge about the Following languages :- C                                                c
-                                                  C++,
-                                                  HTML
-                                                  CSS,
-                                                  JvaScript,
-                                                  React,
-                                                  Python,
-                                                  Python(Django).
-                                                  
+Hi there, I'm Bimal , a computer engineer with a passion for software development and DevOps. With a solid foundation in HTML, CSS, JavaScript, MySQL, and Python, I love building web applications that are both beautiful and functional.
+
+My experience in DevOps enables me to automate software development processes and improve team collaboration, resulting in faster delivery of high-quality products. I have worked with various tools and technologies such as Jenkins, Docker, Kubernetes, and Git to deploy and manage applications in production environments.
+
+When I'm not coding, you can find me exploring new technologies and frameworks or contributing to open-source projects. I believe in the power of collaboration and community, and I'm always eager to learn and share my knowledge with others.
+
+Let's connect and build something amazing together!
                                                   
                                                   
 
