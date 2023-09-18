@@ -9,7 +9,7 @@ Let's connect and build something amazing together!
                                                   
 
 You can reach me through :
-- 📫 Gmail: bimalkhimdung@gmail.com
+- 📫 Gmail: bimalkhimdung@gmail.com && bimal.rai@aayulogic.com
 - Also checkout website : raibimal.com.np
 
 
