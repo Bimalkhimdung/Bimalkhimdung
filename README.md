@@ -66,11 +66,8 @@
 Hi there, I'm Bimal , a computer engineer with a passion for software development and DevOps. With a solid foundation in Automation,Cloud Service,Scripting in Python and Bash.
 
 My experience in DevOps enables me to automate software development processes and improve team collaboration, resulting in faster delivery of high-quality products. I have worked with various tools and technologies such as Ansible,Docker,Docker Swarm, Jenkins and Git and GitHub Action to deploy and manage applications in production environments.
-
+Feel free to reach out to me at 📧 : <a href="mailto:bimalkhimdung@gmail.com">bimalkhimdung@gmail.com</a>  
 </p>
-
-<br/>
-<br/>
 <br/>
 
 ## Use To Code
