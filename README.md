@@ -60,15 +60,15 @@
  # About me
  
 <p>
-Hi there, I'm Bimal , a computer engineer with a passion for software development and DevOps. With a solid foundation in Automation,Cloud Service,Scripting in Python and Bash.
+Hi there, I'm Bimal with 3+ year of experience in DevOps. With a solid foundation in AWS,GCP,K8s & IaC.
 
-My experience in DevOps enables me to automate software development processes and improve team collaboration, resulting in faster delivery of high-quality products. I have worked with various tools and technologies such as Ansible,Docker,Docker Swarm, Jenkins and Git and GitHub Action to deploy and manage applications in production environments.
+My experience in DevOps enables me to automate software development processes and improve team collaboration, resulting in faster delivery of high-quality products. I have worked with various tools and technologies such as Docker, Kubernetes,Ansible,Iac,Git,GitHub Action,AWS code Build & deploy, GCP cloud build & cloud Deoply to deploy and manage applications in production environments.
 
 Feel free to reach out to me at 📧 : <a href="mailto:bimalkhimdung@gmail.com">bimalkhimdung@gmail.com, bimalrai.devops@gmail.com </a>  
 </p>
 <br/>
 
-## Use To Code
+## Technologies
 ![Shell Script](https://img.shields.io/badge/Shell-Script-4EAA25?style=for-the-badge&labelColor=black&logo=gnu-bash&logoColor=4EAA25)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
 ![YAML](https://img.shields.io/badge/YAML-FFD866?style=for-the-badge&labelColor=black&logo=yaml&logoColor=FFD866)
