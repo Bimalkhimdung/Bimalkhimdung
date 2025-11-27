@@ -105,7 +105,7 @@ Feel free to reach out to me at 📧 : <a href="mailto:bimalkhimdung@gmail.com">
 <br/>
 
 ## Top Open Source -
-[![Devops Files](https://github-readme-stats.vercel.app/api/pin/?username=Bimalkhimdung&repo=devops-opensource-files&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&border_color=7F3FBF)](https://github.com/Bimalkhimdung/devops-files)
+[![Devops Files](https://github-readme-stats.vercel.app/api/pin/?username=Bimalkhimdung&repo=devops-files&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&border_color=7F3FBF)](https://github.com/Bimalkhimdung/devops-files)
 [![Major Project](https://github-readme-stats.vercel.app/api/pin/?username=Bimalkhimdung&repo=Major_Project&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&border_color=7F3FBF)](https://github.com/Bimalkhimdung/Major_Project)
 
 
